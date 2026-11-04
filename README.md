@@ -20,7 +20,6 @@ Aplikasi web portofolio ini dibangun menggunakan teknologi modern berbasis React
 - **Tailwind CSS**: Framework CSS untuk *responsive design* dan implementasi gaya visual.
 - **Lucide Icons (`lucide-react`)**: Penyedia ikon vektor yang clean dan modern untuk memperjelas visualisasi kategori.
 - **JavaScript (ES6+)**: Mengelola logika aplikasi dan arsitektur data terpusat di `portfolioData.js`.
-- 
 
 
 ## Dokumentasi
