@@ -31,4 +31,3 @@ Aplikasi web ini dibangun menggunakan teknologi modern yang ringan tanpa *framew
       ![Dokumentasi](5.png)
 7. **Journey & Timeline (Experience & Education):** Menyajikan rekam jejak perjalanan karier dan organisasi (termasuk pengalaman sebagai Head of Training & Development Division di HMTI STITEK Bontang) serta riwayat pendidikan formal.
       ![Dokumentasi](6.png)
-9. **Interactive Exploration & Tech Stack:** Menyediakan daftar lengkap perangkat, bahasa, dan *framework* yang dikuasai secara visual[cite: 6].
