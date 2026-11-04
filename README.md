@@ -33,3 +33,25 @@ Aplikasi web portofolio ini dibangun menggunakan teknologi modern berbasis React
       ![Dokumentasi](5.png)
 7. **Journey & Timeline (Experience & Education):** Menyajikan rekam jejak perjalanan karier dan organisasi (termasuk pengalaman sebagai Head of Training & Development Division di HMTI STITEK Bontang) serta riwayat pendidikan formal.
       ![Dokumentasi](6.png)
+
+
+## Struktur Folder & Arsitektur Proyek
+Berikut adalah arsitektur direktori dari proyek portofolio ini:
+
+```text
+fortofolio/
+├── 📁 public/                 # Aset statis public yang diakses langsung oleh browser
+├── 📁 src/                    # Direktori utama source code aplikasi React
+│   ├── 📁 assets/             # Aset media (gambar, logo, dan file ikon khusus)
+│   ├── 📁 components/         # Komponen React UI modular (Hero, Services, Projects, Journey, dll.)
+│   ├── 📁 data/               # Arsitektur data terpusat (e.g., portfolioData.js)
+│   ├── 📄 App.css             # Styling khusus untuk komponen aplikasi
+│   ├── 📄 App.jsx             # Root Component yang menggabungkan seluruh komponen UI
+│   ├── 📄 index.css           # Konfigurasi Tailwind CSS utama & gaya global
+│   └── 📄 main.jsx            # Entry point utama React untuk merender App ke DOM
+├── 📄 .gitignore              # Daftar file/folder yang diabaikan oleh Git
+├── 📄 .oxlintrc.json          # Konfigurasi linter code (Oxlint)
+├── 📄 index.html              # Template HTML5 dasar (Entry point aplikasi Vite)
+├── 📄 package.json            # Daftar dependensi library (React, Tailwind, Lucide Icons, dll.)
+├── 📄 README.md               # Dokumentasi resmi proyek
+├── 📄 vite.config.js          # Konfigurasi build tool Vite
