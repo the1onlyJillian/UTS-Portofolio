@@ -14,10 +14,13 @@
 ---
 
 ## Teknologi yang Digunakan
-Aplikasi web ini dibangun menggunakan teknologi modern yang ringan tanpa *framework* berat untuk memastikan performa yang cepat dan optimal:
-* **HTML5:** Struktur semantik utama dokumen web.
-* **Tailwind CSS:** Kerangka kerja CSS untuk mendesain antarmuka yang responsif dan rapi.
-* **JavaScript (ES6+):** Menghadirkan interaktivitas dinamis pada komponen halaman.
+Aplikasi web portofolio ini dibangun menggunakan teknologi modern berbasis React:
+- **HTML5:** Struktur semantik utama dokumen web.
+- **React.js**: Library frontend utama untuk membangun komponen UI yang *reusable* dan dinamis.
+- **Tailwind CSS**: Framework CSS untuk *responsive design* dan implementasi gaya visual.
+- **Lucide Icons (`lucide-react`)**: Penyedia ikon vektor yang clean dan modern untuk memperjelas visualisasi kategori.
+- **JavaScript (ES6+)**: Mengelola logika aplikasi dan arsitektur data terpusat di `portfolioData.js`.
+- 
 
 
 ## Dokumentasi
