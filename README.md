@@ -15,9 +15,9 @@
 
 ## Teknologi yang Digunakan
 Aplikasi web ini dibangun menggunakan teknologi modern yang ringan tanpa *framework* berat untuk memastikan performa yang cepat dan optimal:
-* **HTML5:** Struktur semantik utama dokumen web[cite: 4].
-* **Tailwind CSS:** Kerangka kerja CSS untuk mendesain antarmuka yang responsif, rapi, dan estetis[cite: 4].
-* **JavaScript (ES6+):** Menghadirkan interaktivitas dinamis pada komponen halaman[cite: 4].
+* **HTML5:** Struktur semantik utama dokumen web.
+* **Tailwind CSS:** Kerangka kerja CSS untuk mendesain antarmuka yang responsif dan rapi.
+* **JavaScript (ES6+):** Menghadirkan interaktivitas dinamis pada komponen halaman.
 
 
 ## Dokumentasi
