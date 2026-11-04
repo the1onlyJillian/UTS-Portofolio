@@ -2,7 +2,6 @@
 
 # Jillian's Page - Portofolio Web
 
-[Tentang Proyek](#-tentang-proyek) · [Fitur & Teknologi](#-fitur-utama--teknologi-yang-digunakan) · [Dokumentasi](#-dokumentasi-proyek) · [Cara Menjalankan](#-cara-menjalankan-proyek)
 
 </div>
 
