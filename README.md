@@ -7,14 +7,13 @@
 
 ---
 
-## Tentang Proyek
+## Tentang Project
 
-**Jillian's Page** adalah website portofolio pribadi bergaya modern dengan sentuhan estetika retro Y2K serta antarmuka yang bersih dan interaktif[cite: 1, 4]. 
-Proyek web ini dikembangkan secara khusus untuk memenuhi **Ujian Tengah Semester (UTS) Mata Kuliah Pemrograman Berbasis Framework**. Selain sebagai syarat penilaian akademik, website ini berfungsi sebagai *digital hub* profesional untuk menampilkan profil, rekam jejak akademik, pengalaman organisasi, serta kumpulan portofolio proyek kreatif yang pernah dikerjakan[cite: 1, 3, 4, 6].
+**Jillian's Page** adalah website portofolio pribadi yang dibuat sebagai proyek UTS di mata kuliah Pemrograman Berbasis framework. Website ini dirancang untuk menampilkan profil pribadi, informasi akademik, pengalaman organisasi dan pekerjaan, serta kumpulan proyek yang telah dikerjakan dalam satu halaman portofolio.
 
 ---
 
-## Dokumemtasi & Teknologi yang Digunakan
+## Dokumentasi & Teknologi yang Digunakan
 
 ### Dokumentasi
 1. **Hero Section & Digital Card:** Menyambut pengunjung dengan perkenalan interaktif, lencana status mahasiswa, serta kartu profil digital lengkap dengan status *"Available for hire"*.
